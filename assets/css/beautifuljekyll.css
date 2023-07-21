@@ -466,7 +466,7 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  font-family: 'pretendard' sans-serif;
+  font-family: "Roboto", sans-serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
