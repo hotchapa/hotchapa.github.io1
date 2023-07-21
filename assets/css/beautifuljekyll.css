@@ -1,10 +1,9 @@
 ---
 layout: null
 ---
+
 @import url('https://webfontworld.github.io/pretendard/Pretendard.css');
-
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;800&family=Roboto:wght@100&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;800&family=Roboto:wght@100&display=swap'); */
 /* @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css'); */
 @import url("pygment_highlights.css");
 
